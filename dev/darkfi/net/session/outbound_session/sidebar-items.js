@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["SlotPreference"],"struct":["OutboundSession","PeerDiscovery","Slot"],"trait":["PeerDiscoveryBase"],"type":["OutboundSessionPtr"]};
